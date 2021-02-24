@@ -2,9 +2,28 @@
 
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-```js
+
 I'm a 32 year old software developer enthusiast, who does a lot of web development projects, I'm very Passionate about coding in general.
+
+
+```js
+import SoftwareDeveloper from 'thompsonemerson';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Emerson Thompson';
+  title    = 'Software Engineer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'Fortaleza, CE';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
 ```
+
+
 <hr>
 
 <br/>

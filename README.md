@@ -17,7 +17,7 @@ I'm a 32 year old software developer enthusiast, who does a lot of web developme
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
 
-⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
+⭐️ From [Helder Balbino](https://github.com/HelderBalbino)
 
 
 
@@ -79,4 +79,4 @@ I'm a 32 year old software developer enthusiast, who does a lot of web developme
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+

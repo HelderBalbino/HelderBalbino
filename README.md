@@ -3,8 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 I'm a 32 year old software developer enthusiast, who does a lot of web development projects, I'm very Passionate about coding in general.
 
-## 📫 How to reach me 🤝:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/helder-balbino-18184a100/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]() [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/HelderBalbino) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook]()
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -28,17 +26,10 @@ I'm a 32 year old software developer enthusiast, who does a lot of web developme
   
 - 🖥 &nbsp;
 
+## 📫 How to reach me 🤝:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/helder-balbino-18184a100/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]() [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/HelderBalbino) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook]()
+
 ⭐️ From [Helder Balbino](https://github.com/HelderBalbino)
-
-
-
-
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
-
 
 
 

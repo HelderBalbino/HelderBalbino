@@ -1,7 +1,10 @@
-# Hello there I'm Helder Balbino 👋🏾
+<h1> Hello there I'm Helder Balbino 👋🏾 </h1>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 I'm a 32 year old software developer enthusiast, who does a lot of web development projects, I'm very Passionate about coding in general.
+
+<hr>
 
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -29,17 +32,18 @@ I'm a 32 year old software developer enthusiast, who does a lot of web developme
 
 <br>
 <hr>
-## 📫 How to reach me 🤝:
+📫 How to reach me 🤝:
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HelderBalbino)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helder-balbino-18184a100/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:helderbalbino@gmail.com)
 
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ⭐️ From [Helder Balbino](https://github.com/HelderBalbino)
 

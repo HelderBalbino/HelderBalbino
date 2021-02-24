@@ -1,9 +1,11 @@
 <h1> Hello there I'm Helder Balbino 👋🏾 </h1>
 
-
-<h2> 👨🏻‍💻 &nbsp;About Me: </h2> [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HelderBalbino)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HelderBalbino)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helder-balbino-18184a100/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:helderbalbino@gmail.com)
+
+
+<h2> 👨🏻‍💻 &nbsp;About Me: </h2> 
 
 
 ```js

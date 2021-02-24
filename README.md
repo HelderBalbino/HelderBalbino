@@ -1,26 +1,8 @@
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with React
-- 💬 Ask me about css
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-
-
-
 # Hello there I'm Helder Balbino 👋🏾
 I'm a 32 year old software developer enthusiast, who does a lot of web development projects, I'm very Passionate about coding in general.
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/helder-balbino-18184a100/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]() [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/HelderBalbino) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook]()
-<!--
 
 
 

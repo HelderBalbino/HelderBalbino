@@ -1,25 +1,22 @@
 <h1> Hello there I'm Helder Balbino 👋🏾 </h1>
 
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
-
-I'm a 32 year old software developer enthusiast, who does a lot of web development projects, I'm very Passionate about coding in general.
-
+<h2> 👨🏻‍💻 &nbsp;About Me: </h2>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'helderbalbino';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
+  name     = 'Helder Balbino';
   title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  company  = 'currently looking for my next role';
+  location = 'London, UK';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript'];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = ['React'];
 }
 ```
 
@@ -27,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 <hr>
 
 <br/>
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack: </h2>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -52,7 +49,7 @@ class Skills extends SoftwareDeveloper {
 
 <br>
 <hr>
-📫 How to reach me 🤝:
+<h3> 📫 How to reach me 🤝: </h3>
 <br>
 <br>
 

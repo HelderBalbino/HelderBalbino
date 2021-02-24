@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 I'm a 32 year old software developer enthusiast, who does a lot of web development projects, I'm very Passionate about coding in general.
 
-## 📫 How to reach me 🤝:  
+## 📫 How to reach me 🤝:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/helder-balbino-18184a100/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]() [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/HelderBalbino) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook]()
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -23,27 +23,12 @@ I'm a 32 year old software developer enthusiast, who does a lot of web developme
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
-  - 🔧 &nbsp;
+- 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 - 🖥 &nbsp;
 
 ⭐️ From [Helder Balbino](https://github.com/HelderBalbino)
-
-
-
-
-
-
-
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 
 
 

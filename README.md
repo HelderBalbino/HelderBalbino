@@ -1,7 +1,7 @@
 <h1> Hello there I'm Helder Balbino 👋🏾 </h1>
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me: </h3> 
+<h2> 👨🏻‍💻 &nbsp;About Me: </h2> 
 
 
 ```js

@@ -46,9 +46,11 @@ class Skills extends SoftwareDeveloper {
 
 <h2>Stats &nbsp; </h2>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=helderbalbino&show_icons=true) 
+
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helderbalbino)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=helderbalbino&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderbalbino)](https://github.com/anuraghazra/github-readme-stats)
 

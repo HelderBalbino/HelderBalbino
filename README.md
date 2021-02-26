@@ -44,6 +44,17 @@ class Skills extends SoftwareDeveloper {
 - 🖥 &nbsp;
 
 
+<h2>Stats &nbsp; </h2>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helderbalbino)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=helderbalbino&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderbalbino)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+
 <br>
 
 <h2> 📫 How to reach me 🤝: </h2>
@@ -54,9 +65,18 @@ class Skills extends SoftwareDeveloper {
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HelderBalbino)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helder-balbino-18184a100/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:helderbalbino@gmail.com)
+![Profile views](https://gpvc.arturio.dev/helderbalbino) 
 
 <br>
 <br>
+
+
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/helderbalbino)  
+
+  
+ 
 
 ⭐️ From [Helder Balbino](https://github.com/HelderBalbino)
-

@@ -1,4 +1,5 @@
 <h1 align= "center" > Hello there I'm Helder Balbino 👋🏾 </h1>
+<br/>
 
 
 <h2> 👨🏻‍💻 &nbsp;About Me: </h2>  
@@ -40,13 +41,15 @@ class Skills extends SoftwareDeveloper {
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  
+    <img align= "right" src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" /><img align= "right" src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" />
+  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-    <img align= "right" width= "240" src="https://giphy.com/gifs/the-matrix-WoD6JZnwap6s8/tile" />
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 - ⚙️ &nbsp;
@@ -59,7 +62,7 @@ class Skills extends SoftwareDeveloper {
 <h2> 📈 &nbsp; Stats: </h2>
 
  
-<span align= "right" width= "250">![GitHub stats](https://github-readme-stats.vercel.app/api?username=helderbalbino&show_icons=true) </span>
+<span align= "right" width= "550" height="300">![GitHub stats](https://github-readme-stats.vercel.app/api?username=helderbalbino&show_icons=true) </span>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helderbalbino)
 

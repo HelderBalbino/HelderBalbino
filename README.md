@@ -70,22 +70,7 @@ class Skills extends SoftwareDeveloper {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderbalbino)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-
-
-<br>
-
-
-
 <br>
 <br>
-
-
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/helderbalbino)  
-
-  
- 
-
+<br>
 ⭐️ From [Helder Balbino](https://github.com/HelderBalbino)

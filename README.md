@@ -44,7 +44,7 @@ class Skills extends SoftwareDeveloper {
 - 🖥 &nbsp;
 
 
-<h2>Stats &nbsp; </h2>
+<h2> 📈 &nbsp; Stats: </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=helderbalbino&show_icons=true) 
 

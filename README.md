@@ -1,7 +1,7 @@
-<h1> Hello there I'm Helder Balbino 👋🏾 </h1>
+<h1 align= "center" > Hello there I'm Helder Balbino 👋🏾 </h1>
 
 
-<h2> 👨🏻‍💻 &nbsp;About Me: </h2> 
+<h2> 👨🏻‍💻 &nbsp;About Me: </h2>  
 
 
 ```js
@@ -20,6 +20,19 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React'];
 }
 ```
+<h2> 📫 How to reach me 🤝: </h2>
+<br>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HelderBalbino)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helder-balbino-18184a100/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:helderbalbino@gmail.com)
+![Profile views](https://gpvc.arturio.dev/helderbalbino) 
+
+ - 🤝 💬 &nbsp; Ask me about programming in general, I am always <br> available to help and learn together.
+
+
+
+<br/>
 <br/>
 <h2> 🛠 &nbsp;Tech Stack: </h2>
 
@@ -30,24 +43,23 @@ class Skills extends SoftwareDeveloper {
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+    <img align= "right" width= "240" src="https://dribbble.com/shots/2831763-I-Play-With-Code/attachments/2831763-I-Play-With-Code?mode=media" />
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-- 🖥 &nbsp;
-
-
 <h2> 📈 &nbsp; Stats: </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=helderbalbino&show_icons=true) 
-
+ 
+<span align= "right" width= "250">![GitHub stats](https://github-readme-stats.vercel.app/api?username=helderbalbino&show_icons=true) </span>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helderbalbino)
 
@@ -59,15 +71,7 @@ class Skills extends SoftwareDeveloper {
 
 <br>
 
-<h2> 📫 How to reach me 🤝: </h2>
 
-<br>
-<br>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HelderBalbino)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helder-balbino-18184a100/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:helderbalbino@gmail.com)
-![Profile views](https://gpvc.arturio.dev/helderbalbino) 
 
 <br>
 <br>

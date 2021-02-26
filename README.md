@@ -1,4 +1,4 @@
-<h1 align= "center" > Hello there I'm Helder Balbino 👋🏾 </h1>
+<h1 align= "center" > Hello there <br> I'm Helder Balbino 👋🏾 </h1>
 <br/>
 
 
@@ -11,7 +11,7 @@ import SoftwareDeveloper from 'helderbalbino';
 class Bio extends SoftwareDeveloper {
   name     = 'Helder Balbino';
   title    = 'Software Engineer';
-  company  = 'currently looking for my next role';
+  company  = 'Currently looking for my next role';
   location = 'London, UK';
 }
 

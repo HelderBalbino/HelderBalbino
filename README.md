@@ -26,7 +26,7 @@ class Skills extends SoftwareDeveloper {
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HelderBalbino)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/helder-balbino-18184a100/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:helderbalbino@gmail.com)
-![Profile views](https://gpvc.arturio.dev/helderbalbino) 
+
 
  - 🤝 💬 &nbsp; Ask me about programming in general, I am always <br> available to help and learn together.
 
@@ -46,7 +46,7 @@ class Skills extends SoftwareDeveloper {
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-    <img align= "right" width= "240" src="https://dribbble.com/shots/2831763-I-Play-With-Code/attachments/2831763-I-Play-With-Code?mode=media" />
+    <img align= "right" width= "240" src="https://giphy.com/gifs/the-matrix-WoD6JZnwap6s8/tile" />
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 - ⚙️ &nbsp;

@@ -2,7 +2,7 @@
 <br/>
 
 
-<h2> 👨🏻‍💻 &nbsp;About Me: </h2>  
+<h1> 👨🏻‍💻 &nbsp;About Me: </h1>  
 
 
 ```js

@@ -86,6 +86,6 @@ class Skills extends SoftwareDeveloper {
 <br>
 <br>
 
-<h3>“It always seems impossible until it is done.”</h3>
+<h4>“It always seems impossible until it is done.”</h4>
 
 ⭐️ From [Helder Balbino](https://github.com/HelderBalbino)

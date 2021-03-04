@@ -1,7 +1,6 @@
 <h1 align= "center" > Hello there <br> I'm Helder Balbino 👋🏾 </h1>
 <br/>
 
-
 <h1> 👨🏻‍💻 &nbsp;About Me: </h1>  
 
 
@@ -30,8 +29,6 @@ class Skills extends SoftwareDeveloper {
 
 
  - 🤝 💬 &nbsp; Ask me about programming in general, I am always <br> available to help and learn together.
-
-
 
 <br/>
 <br/>

@@ -81,7 +81,9 @@ class Skills extends SoftwareDeveloper {
 <hr>
 <br>
 <br>
+
 <h4>“It always seems impossible until it is done.”</h4>
+
 <br>
 <br>
 <br>

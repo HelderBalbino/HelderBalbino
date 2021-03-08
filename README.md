@@ -20,6 +20,7 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React'];
 }
 ```
+
 <h2> 📫 How to reach me 🤝: </h2>
 <br>
 

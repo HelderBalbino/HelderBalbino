@@ -89,4 +89,6 @@ class Skills extends SoftwareDeveloper {
 <br>
 <br>
 
+[![Image of https://github.com/helderbalbino/github-profile-views-counter](https://github.com/helderbalbino/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/helderbalbino/github-profile-views-counter)
+
 ⭐️ From [Helder Balbino](https://github.com/HelderBalbino)
